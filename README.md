@@ -88,8 +88,8 @@ brew install git
 brew install yasm
 
 # add these lines to your ~/.bash_profile or ~/.profile
-# export ANDROID_SDK=<your sdk path>
-# export ANDROID_NDK=<your ndk path>
+# export ANDROID_SDK=<your sdk path>  export ANDROID_SDK=/home/peter/Android/Sdk
+# export ANDROID_NDK=<your ndk path>  export ANDROID_NDK=/home/peter/Android/ndk-r10e
 
 # on Cygwin (unmaintained)
 # install git, make, yasm
